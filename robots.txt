@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ecty82.salamcuan.online/sitemap.xml
